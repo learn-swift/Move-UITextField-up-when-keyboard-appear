@@ -1,4 +1,4 @@
-# UITextField move up when keyboard appears in Swift
+## Move UITextField up when keyboard appears in Swift
 
 ```Swift
 @IBOutlet weak var emailTextField		: UITextField!
